@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  text-align: center;
+}
+#doritos{
+  max-width:300px;
+  max-height:300px;
+}
+
+
+h1{
+  color: blue;
+}
+
